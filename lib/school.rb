@@ -23,7 +23,7 @@ def add_student(name, grade)
  end 
  
  def sort
-   
+   @roster each do |value| value.sort 
    
  end 
  
