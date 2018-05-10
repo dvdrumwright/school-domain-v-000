@@ -19,7 +19,10 @@ def add_student(name, grade)
  end 
  
  
- def 
+ def grade(grade)
+   return 
+   @roster[grade]
+ end 
  
  
   
