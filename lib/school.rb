@@ -23,7 +23,8 @@ def add_student(name, grade)
  end 
  
  def sort
-   @roster.each do |key value| value.sort! 
- end
+   @roster.each do |key, value| 
+     value.sort! 
+   end 
  end 
-  end 
+ end 
