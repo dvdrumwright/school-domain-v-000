@@ -22,7 +22,8 @@ def add_student(name, grade)
    @roster[grade]
  end 
  
- def sort 
+ def sort(key, value)
+   
  end 
  
   
