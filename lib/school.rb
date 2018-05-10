@@ -10,7 +10,9 @@ class School
     @roster 
   end 
   
-  def ad_
+  def add_student 
+    
+  end 
   
 
 end 
