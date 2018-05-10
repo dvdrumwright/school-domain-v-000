@@ -10,6 +10,7 @@ class School
     @roster 
   end 
   
+  def ad_
   
 
 end 
